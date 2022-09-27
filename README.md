@@ -1,11 +1,10 @@
-Bem vindo(a) ao meu perfil >_<
+Bem vindo(a) ao meu perfil ✌️ 😎
 <div>
   <a href="https://github.com/vitoria-soaress">
   
 
     
-<img height="180em"src="https://githubreadmestats.vercel.app/apiusername=vitoriasoaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoria-soaress&theme=dracula&show_icons=true"/>
     
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-soaress&layout=compact&langs_count=6&theme=dracula"/>
@@ -23,7 +22,7 @@ Bem vindo(a) ao meu perfil >_<
 <div> 
   
   <a href="https://instagram.com/vitooriasoaress" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <i 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
   ![Snake animation](https://github.com/vitoria-soaress/vitoria-soaress/blob/output/github-contribution-grid-snake.svg)
